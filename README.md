@@ -22,5 +22,6 @@ projeto java focado em garantir a robustez do sistema. Simula operações bancá
 
 ## 💻 Como Executar
 
-1. Clone o repositório. 
+1. Clone o repositório.
+   https://github.com/MariadDsoares/Simulador-de-Conta-Bancaria---Java.git
 2. Compile e execute a classe SimuladorBanco.java.
